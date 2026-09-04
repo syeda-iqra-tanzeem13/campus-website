@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" role="img" aria-labelledby="title desc">
+  <title id="title">St. Ann's Guide logo</title>
+  <desc id="desc">Purple circular campus navigation logo with a location pin, graduation cap, map tiles, and St. Ann's Guide text.</desc>
+
+  <defs>
+    <linearGradient id="pinGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#6B3AA0"/>
+      <stop offset="100%" stop-color="#542B7E"/>
+    </linearGradient>
+    <linearGradient id="tileGradient" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#744AA8"/>
+      <stop offset="100%" stop-color="#542B7E"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Circular badge -->
+  <circle cx="500" cy="410" r="350" fill="none" stroke="#542B7E" stroke-width="10"/>
+
+  <!-- Map tiles -->
+  <g fill="url(#tileGradient)" stroke="#FFFFFF" stroke-width="7" stroke-linejoin="round">
+    <polygon points="210,620 330,575 445,635 325,685"/>
+    <polygon points="555,635 670,575 790,620 675,685"/>
+    <polygon points="350,700 500,640 650,700 500,770"/>
+    <polygon points="305,575 395,540 470,580 380,620"/>
+    <polygon points="530,580 605,540 695,575 620,620"/>
+  </g>
+
+  <!-- Location pin -->
+  <path d="M500 155
+           C395 155 315 235 315 335
+           C315 465 410 555 500 650
+           C590 555 685 465 685 335
+           C685 235 605 155 500 155 Z"
+        fill="url(#pinGradient)"/>
+
+  <!-- Subtle pin highlight -->
+  <path d="M395 215 C350 255 335 300 345 355 C360 425 410 475 455 520"
+        fill="none" stroke="#8B62B5" stroke-width="20" stroke-linecap="round" opacity=".28"/>
+
+  <!-- Graduation cap -->
+  <g fill="#FFFFFF">
+    <polygon points="370,310 500,250 630,310 500,370"/>
+    <path d="M405 340 L405 405 Q500 465 595 405 L595 340 L500 390 Z"/>
+    <rect x="624" y="305" width="8" height="95" rx="4"/>
+    <circle cx="628" cy="400" r="9"/>
+    <path d="M618 409 Q628 430 638 409 L638 455 Q628 468 618 455 Z"/>
+  </g>
+
+  <!-- Text -->
+  <text x="500" y="875"
+        text-anchor="middle"
+        fill="#542B7E"
+        font-family="Montserrat, Poppins, Arial, sans-serif"
+        font-size="61"
+        font-weight="600"
+        letter-spacing="8">ST. ANN'S GUIDE</text>
+</svg>
