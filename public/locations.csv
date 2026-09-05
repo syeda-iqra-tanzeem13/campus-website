@@ -1,0 +1,159 @@
+Location ID,Room No.,Room Name,Location Type,Floor,Quadrangle,Description
+LOC001,,Reception,Reception,Ground,Q1,"Main reception area for student and visitor enquiries, assistance, and general information."
+LOC002,1,Dean's Room,Room,Ground,Q1,"Office of the Dean for academic administration, student guidance, and official matters."
+LOC003,2,Adminstrative Room,Office ,Ground,Q1,"Administrative Room: Office for handling college administration, records, student services, and official matters."
+LOC004,,Staircase A,Staircase,Ground,Q1,Main staircase near Reception leading to the first floor.
+LOC005,,Lift 1,Location Type,Ground,Q1,Lift located near the reception and provides access to different floors.
+LOC006,3,IAMC (Internal Acadamic monitoring cell,Academic Office,Ground,Q1,Internal Academic Monitoring Cell (IAMC) responsible for monitoring and supporting academic activities and processes within the college.
+LOC007,4,UPHAAR (Unit For Planning Holistic Approch and Advancement Reforms),Academic Office,Ground,Q1,"Unit for Planning Holistic Approach and Advancement Reforms (UPHAAR), supporting institutional planning, academic development, and improvement initiatives."
+LOC008,5,SQAC (Student Quality Assurance Cell,Academic Office,Ground,Q1,Student Quality Assurance Cell (SQAC) that supports student participation in quality improvement and academic development activities.
+LOC009,6,IQAC (International Quality Assurance Cell),Academic Office,Ground,Q1,International Quality Assurance Cell (IQAC) responsible for supporting and promoting quality standards and continuous improvement within the institution.
+LOC010,,Gnanama Hall,Seminar Hall,Ground,Q1,"A multipurpose hall with a seating capacity of approximately 200 people, used for seminars, meetings, workshops, cultural programs, and other college events."
+LOC011,,Wheelchair Ramp – Entrance,Accessibility,Ground,Q1,Wheelchair-accessible ramp providing accessible entry to the college campus.
+LOC12,,Staircase left,Staircase,Ground,Q1,"Small staircase located beside the wheelchair-accessible ramp, providing access to the entrance."
+LOC13,7,Principals Chamber,Administration,Ground,Q1,"Office of the Principal for academic leadership, administration, and institutional management."
+LOC14,9,,,Ground,Q1,
+LOC15,10,Conference Hall,Conference Hall,Ground,Q1,"A dedicated space used for meetings, discussions, presentations, and official college gatherings."
+LOC16 ,,Stage,Event Space,Ground,Q1,"An open stage located in Quadrangle 1, used for college events, performances, and programs."
+LOC17,,Quadrangle 1,Open Area,Ground,Q1,An open central area of Quadrangle 1 connecting surrounding classrooms and facilities.
+LOC18,,Right Side Steps, Stairs,Ground,Q1,Steps connecting the entrance to the middle level.
+LOC19,31,Department bio technology,Academic Department,Ground,Q1,"Academic department responsible for teaching, learning, practical training, and activities related to Biotechnology."
+LOC20,32,Department  Zeology (lab -1),lab-1,Ground,Q1,"Academic department responsible for teaching, learning, practical training, and activities related to Biotechnology."
+LOC21,33,Department zeology (museum animal),Laboratory,Ground,Q1,"Museum associated with the Department of Zoology, featuring preserved animal specimens and exhibits for academic learning and study."
+LOC22,34,Department zeology (staff room),Staff room,Ground,Q1,Staff room for faculty members of the Department of Zoology.
+LOC23,35,Bio chemistry ( lehnigers lab),Laboratory,Ground,Q1,"Laboratory for biochemistry practicals, experiments, and academic activities."
+LOC24,36,Zeology lab-2 (DIZA- Digital innovation zoo @anns,Laboratory,Ground,Q1,"Laboratory designed for zoology practicals, biological studies, experiments, and hands-on academic learning."
+LOC25,37,Class Room,Classroom,Ground,Q1,"Classroom designed for lectures, interactive learning, discussions, and academic activities."
+LOC26,38,Class Room,Classroom,Ground,Q1,"Classroom designed for lectures, interactive learning, discussions, and academic activities."
+LOC27,39,Sports room ,Sports Room,Ground,Q1,"A dedicated space supporting sports activities, equipment management, training, and the overall development of student athletic programs."
+LOC28,,Gate -2,Entrance Gate,Ground,Q1,"Secondary entrance providing convenient access to the campus for students, staff, and visitors."
+LOC29,,physical Eduction ( Staff Room),Staff room,Ground,Q1,"Staff facility for Physical Education faculty to coordinate sports programs, fitness activities, training, and student participation."
+LOC30,,Staircase B,Staircase,Ground,Q1,Staircase near Gate 2 providing easy access to the first floor.
+LOC31,51,Faculty Of Social Science,Staff room,Ground,Q1,"Faculty space for Social Science educators, supporting teaching, academic planning, student guidance, and departmental activities."
+LOC32,50,Class Room,Classroom,Ground,Q1,"Classroom designed for lectures, interactive learning, discussions, and academic activities."
+LOC33,,Lift 2,Lift,Ground,Q1,Lift providing convenient access between the different floors of the college.
+LOC34,,Sick room ,Medical Facility,Ground,Q1,"A dedicated wellness space providing basic care, assistance, and a place to recover comfortably."
+LOC35,,Prayer Room,Prayer Room,Ground,Q1,"A peaceful and quiet space for prayer, reflection, and moments of spiritual calm."
+LOC36,,Stationery,Stationery,Ground,Q1,Convenient campus store providing essential stationery and academic supplies for students and staff.
+LOC37,48,Class Room,Classroom,Ground,Q1,"Classroom designed for lectures, interactive learning, discussions, and academic activities."
+LOC38,,Cafeteria,Canteen,Ground,Q1,"Campus dining area offering food, snacks, and refreshments for students and staff."
+LOC39,,Ladies Washroom,Washroom,Ground,Q2,Washroom facility available for female students and staff.
+LOC40,,Canteen Seating Area,Seating Area,Ground,Q2,"Comfortable seating area for students and staff to relax, enjoy meals, and have refreshments."
+LOC41,29,Poshana,Student Cooking Area,Ground,Q2,Dedicated space for students to develop practical skills through food preparation and cooking activities.
+LOC42,28,Department Of Genetics (Mc Clintocks lab),Laboratory,Ground,Q2,"Specialized laboratory supporting genetics practicals, research, experiments, and hands-on learning."
+LOC43,26,Ahar Nilayam lab,Laboratory,Ground,Q2,"Well-equipped space for student experiments, practical sessions, and applied academic learning."
+LOC44,25,Gopalan lab -1,Laboratory,Ground,Q2,"A practical learning space where students explore nutrition, food science, and related applications through hands-on activities and experiments."
+LOC45,,Staircase C,Staircase,Ground,Q2,"Staircase located beside the seating area, providing convenient access from the ground floor to the first floor."
+LOC46,24,Department of Nutrition,Department,Ground,Q2,"Department dedicated to teaching, learning, and academic activities related to nutrition and food science."
+LOC47,23,room,room,Ground,Q2,
+LOC48,22,Department Of Chemistry (Staff Room),Staff room,Ground,Q2,"Staff workspace for the Chemistry department, supporting teaching, academic planning, and student guidance."
+LOC49,21,SACRED (St Ann's Center For Research and Development),Research & Development Center,Ground,Q2,"A dedicated center for research, innovation, collaborative projects, and the development of new ideas and solutions."
+LOC50,20, Madam Curie (Chem lab),Laboratory,Ground,Q2,"A specialized chemistry laboratory where students gain practical experience through experiments, scientific analysis, and hands-on learning."
+LOC51,,Staircase D,Staircase,Ground,Q2,"Staircase beside Room 18 in Quadrangle 2, providing access to the first floor."
+LOC52,18,Hesenberg (lab),Laboratory,Ground,Q2,"A practical learning environment that encourages experimentation, observation, and scientific understanding."
+LOC53,19 A,Distilled Water Unit,Facility,Ground,Q2,Dedicated facility for producing and supplying purified distilled water for laboratory and academic use.
+LOC54,,Gas Plant,Utility Facility,Ground,Q2,Dedicated utility facility supporting the safe supply and management of gas for laboratory and academic use.
+LOC55,17, Chemistry Lab -3,Laboratory,Ground,Q2,"A dedicated laboratory for chemistry practicals, experiments, scientific analysis, and hands-on learning."
+LOC56,16,KEKULE (Bio Chem lab),Laboratory,Ground,Q2,"A specialized laboratory for biochemistry experiments, practical learning, scientific analysis, and hands-on study."
+LOC57,15, Department of Biochemistry (Staff Room),Staff room,Ground,Q2,"Dedicated workspace for Biochemistry faculty supporting teaching, academic planning, research, and student guidance."
+LOC58,14,IGNOV Study Center,Study Center,Ground,Q2,"A focused learning hub that encourages independent study, collaborative learning, and the exchange of ideas among students."
+LOC59,,Placement Cell,Placement Cell,Ground,Q2,"A career support hub connecting students with employment opportunities, industry interactions, recruitment drives, and professional guidance."
+LOC60,,Staircase E,Staircase,Ground,Q2,Staircase near Gate 3 providing convenient access to the upper floor.
+LOC61,,Gate 3,Entrance Gate,Ground,Q2,"A campus access point providing entry and exit for students, staff, and visitors."
+LOC62,,Staircase A,Staircase,1st Floor,Q1,"A staircase beside the library, providing easy access between the ground and first floors."
+LOC63,,Student Lockers,Facility,1st Floor,Q1,A designated storage area where students can safely keep their personal belongings.
+LOC64,,Lift 1,Lift,1st Floor,Q1,A convenient vertical access facility connecting the different floors of the college.
+LOC65,103,Deckman Hall,Seminar Room,1st Floor,Q1,"A dedicated seminar space for academic presentations, discussions, workshops, and interactive sessions."
+LOC66,104,Library and Information Science Centre,Library,1st Floor,Q1,"A dedicated learning space providing students with books, study resources, and a quiet environment for reading and academic work."
+LOC67,105,Department of Commerce,Department,1st Floor,Q1,"Academic department supporting learning and teaching in commerce, business, finance, and related fields."
+LOC68,106,Class Room,Classroom,1st Floor,Q1,"A dedicated learning space for lectures, discussions, and regular academic sessions"
+LOC69,107,Class Room,Classroom,1st Floor,Q1,A comfortable environment designed to support effective teaching and student learning.
+LOC70,108,Class Room,Classroom,1st Floor,Q1,"A well-organized classroom for interactive lessons, academic discussions, and knowledge sharing."
+LOC71,,Right Side Steps,Stairs,1st Floor,Q1,Steps connecting the entrance to the middle level.
+LOC72,128,Class Room,Classroom,1st Floor,Q1,"A space where students participate in lectures, classroom activities, and collaborative learning."
+LOC73,129,Class Room,Classroom,1st Floor,Q1,"An academic environment supporting focused learning, teaching sessions, and student interaction."
+LOC74,130, Department of English, Department,1st Floor,Q1,"Academic department dedicated to language learning, literature, communication, and the development of students' language skills."
+LOC75,131,Class Room,Classroom,1st Floor,Q1 ,A student-friendly learning area designed for classroom teaching and meaningful academic engagement.
+LOC76,132,Class Room,Classroom,1st Floor,Q1,"A dedicated academic space where students learn through lectures, discussions, and group activities."
+LOC77,133,Class Room,Classroom,1st Floor,Q1,"A classroom environment that encourages participation, interaction, and effective learning."
+LOC78,134,Class Room,Classroom,1st Floor,Q1,"A space designed for regular teaching sessions, student discussions, and academic development."
+LOC79,135,Class Room,Classroom,1st Floor,Q1,An academic learning area providing a comfortable setting for lectures and classroom activities.
+LOC80,136,Class Room,Classroom,1st Floor,Q1,"A shared learning space for students and faculty to conduct lessons, discussions, and presentations."
+LOC81,137,Class Room,Classroom,1st Floor,Q1,A classroom dedicated to supporting daily academic sessions and an engaging learning experience.
+LOC82,138,Department of Language ,Department,1st Floor,Q1,"Academic department supporting language learning, communication skills, literature, and linguistic development."
+LOC83,,Staircase B,Staircase,1st Floor,Q1,"Staircase B connecting the first floor to the second floor, providing convenient access between the floors."
+LOC84,139,Class Room,Classroom,1st Floor,Q1,A focused learning environment where students develop knowledge through teaching and interactive activities
+LOC85,140,Class Room,Classroom,1st Floor,Q1,"An organized learning environment designed to facilitate teaching, communication, and student collaboration."
+LOC86,,Lift 2,Lift,1st Floor,Q1,Lift 2 providing convenient access from the first floor to the second floor.
+LOC87,,Ladies Washroom,Washroom,1st Floor,Q1,Conveniently located washroom facility for female students and staff on the first floor.
+LOC88,,Incubation centre,club,1st Floor,Q1,"A collaborative space that supports innovative ideas, student projects, entrepreneurship, and the development of new ventures."
+LOC89,126,Department of Microbiology,Department,1st Floor,Q2,"Academic department focused on the study of microorganisms, laboratory learning, research, and practical applications."
+LOC90,127,Pasteur Lab,Laboratory,1st Floor,Q2,"A dedicated laboratory for practical experiments, scientific investigation, and hands-on learning."
+LOC91,125,Leeuwenhoek lab,Laboratory,1st Floor,Q2,"A specialized laboratory supporting microbiology practicals, microscopic studies, experiments, and hands-on scientific learning."
+LOC92,123,seminar hall-2,classroom,1st Floor,Q2,A focused learning environment where students develop knowledge through teaching and interactive activities
+LOC93,122,M.Sc. Nutrition Lab (Swastya),Laboratory,1st Floor,Q2,"A practical learning space for nutrition studies, food-related experiments, and hands-on learning in health and wellness."
+LOC94,,Staircase C,Staircase,1st Floor,Q2,"Staircase C connecting the first and second floors, providing easy access between the two levels."
+LOC95,121, Computer science (staff room),Staff Room,1st Floor,Q2,"Dedicated workspace for Computer Science faculty supporting teaching, academic planning, student guidance, and departmental activities."
+LOC96,118,Computer science lab -2,Laboratory,1st Floor,Q2,"A modern computer lab equipped with smart computers and a smart board for programming, practical sessions, and interactive learning."
+LOC97,117,Computer science lab -1,Laboratory,1st Floor,Q2,"A technology-enabled lab with smart computers and a smart board, supporting programming practice, practical learning, and interactive sessions."
+LOC98,115,Sankhya (Statistics Lab),Laboratory,1st Floor,Q2,"A specialized learning space for statistical analysis, data interpretation, practical exercises, and hands-on learning."
+LOC99,114,ICT Information & Computer Technology Centre,Laboratory,1st Floor,Q2,"A technology-focused centre supporting digital learning, computer-based activities, ICT resources, and technical development."
+LOC100,113,Parasarah lab,Laboratory,1st Floor,Q2,"A dedicated laboratory that provides students with opportunities for practical learning, experimentation, and hands-on academic exploration."
+LOC101,112,Botany lab -1(calvin),Laboratory,1st Floor,Q2,"A vibrant learning space where students explore the world of plants through observation, experimentation, and practical study. 🌱"
+LOC102,111,J.C bose Research lab,Research Laborator,1st Floor,Q2,"A dedicated research space where students and faculty explore scientific ideas, conduct experiments, and work on innovative research projects."
+LOC103,110,Botany store ,Storage Facility,1st Floor,Q2,"A dedicated storage space for botanical specimens, laboratory materials, equipment, and other resources used for academic and practical"
+LOC104,202,Department of Social Science,Academic Department,2,Q1,"Academic department responsible for teaching, learning, research, and student activities related to various social science disciplines."
+LOC104,203,PC Paradise,Computer Facility,2,Q1,"Computer facility providing students with access to computers and digital resources for academic work, learning, and practical activities."
+LOC105,204,Digital Delight,Computer Facility,2,Q1,"Digital and computer facility used for accessing technology, digital resources, and computer-based academic activities."
+LOC106,207,Lift,Lift,2,Q1,"Lift facility providing convenient vertical access between different floors of the college building for students, staff, and visitors."
+,,,,,,
+LOC107,208,Room 208,Classroom,2,Q1,"Academic room used for teaching, learning, meetings, and other college-related activities."
+LOC108,209,Room 209,Classroom,2,Q1,"Academic room used for lectures, student learning, and other institutional activities."
+LOC109,210,Psychology Lab,Laboratory,2,Q1,"Laboratory used for practical learning, experiments, demonstrations, and academic activities related to psychology."
+LOC110,211,Room 211,Classroom,2,Q1,"Academic room used for teaching, learning, meetings, and other educational activities."
+LOC111,212,Room 212,Classroom,2,Q1,"Academic room used for lectures, learning activities, and other college-related academic purposes."
+LOC112,213,Room 213,Classroom,2,Q2,"Academic room used for teaching, learning, meetings, and other institutional activities."
+LOC113,214,Department of Psychology,Academic Department,2,Q2,"Academic department responsible for teaching, learning, research, and practical studies in psychology."
+LOC114,215,Commerce Lab,Laboratory,2,Q2,"Practical learning facility supporting commerce-related academic activities, computer-based work, and practical exercises."
+LOC115,216,Room 216,Classroom,2,Q2,"Academic room used for lectures, student learning, and other college-related activities."
+LOC116,216A,Room 216A,Classroom MS'c,2,Q2,"Academic room used for teaching, learning, meetings, or other institutional activities."
+LOC117,216,Room 216,Classroom BCA,2,Q2,"Academic room used for classes, learning activities, and other educational purposes."
+LOC118,217,Room 217,Classroom,2,Q2,"Academic room used for classes, learning activities, and other educational purposes."
+LOC119,218,Room 218,Classroom,2,Q2,"Academic room used for teaching, learning, meetings, and other college activities."
+LOC120,219,Department of Mathematics,Academic Department,2,Q2,Academic department responsible for teaching and research in mathematics and supporting students in mathematical studies.
+LOC121,220,Department of Physics,Academic Department,2,Q2,"Academic department responsible for teaching, practical learning, research, and laboratory-based studies in physics."
+LOC122,221,Room 221,Classroom,2,Q2,"Academic room used for lectures, teaching, learning, and other institutional activities."
+LOC123,222,Room 222,Classroom,2,Q2,"Academic room used for classes, student learning, and other academic activities."
+LOC124,223,Room 223,Classroom,2,Q2,"Academic room used for teaching, learning, meetings, and other college-related activities."
+LOC125,224,Room 224,Classroom,2,Q2,Academic room used for classes and other educational or institutional activities.
+LOC126,225,Room 225,Classroom,2,Q2,"Academic room used for teaching, learning, meetings, and other college activities."
+LOC127,226,Room 226,Classroom,2,Q1,"Academic room used for lectures, teaching, learning, and student activities."
+LOC128,227,Room 227,Classroom,2,Q1,"Academic room used for classes, learning activities, and other institutional purposes."
+LOC129,228,Room 228,Classroom,2,Q1,"Academic room used for teaching, learning, meetings, and other college-related activities."
+LOC130,229,Department of Statistics,Academic Department,2,Q1,"Academic department responsible for teaching and research in statistics, including statistical methods, analysis, and practical studies."
+LOC131,230,Room 230,Classroom,2,Q1,"Academic room used for teaching, learning, meetings, and other institutional activities."
+LOC132,231,Room 231,Classroom,2,Q1,"Academic room used for classes, teaching, learning, and other college-related activities."
+LOC133,231A,Washroom,Washroom,2,Q1,"Washroom facility provided for students, staff, and visitors on the second floor."
+LOC134,233,Department of Languages (Sanskrit),Academic Department,2,Q1,"Academic department responsible for teaching, learning, and study of Sanskrit language, literature, and related subjects."
+LOC135,234,Room 234,Classroom,2,Q1,"Academic room used for lectures, learning, meetings, and other institutional activities."
+LOC136,234A,Department of Business Management,Academic Department,2,Q1,"Academic department responsible for teaching and learning in business management, administration, and related areas."
+LOC137,235,Room 235,Classroom,2,Q1,"Academic room used for teaching, learning, meetings, and other college-related activities."
+LOC138,237A,Store room,Store,2,Q1,
+LOC139,301,NCC,Organisation/Office,3,Q1,"Facility associated with the National Cadet Corps, supporting student participation in training, discipline, leadership, and community activities."
+LOC140,302,English Lab,Laboratory,3,Q2,"Language laboratory supporting English-language learning, communication practice, listening activities, and other language-based academic work."
+LOC141,303,Room 303,Classroom,3,Q2,"Academic room used for teaching, learning, meetings, and other college-related activities."
+LOC142,304,Room 304,Classroom,3,Q2,"Academic room used for classes, student learning, and other educational activities."
+LOC143,305,Room 305,Classroom,3,Q2,"Academic room used for lectures, teaching, learning, and institutional activities."
+LOC144,306,Room 306,Classroom,3,Q2,"Academic room used for teaching, learning, meetings, and other college activities."
+LOC145,307,Room 307,Classroom,3,Q2,Academic room used for classes and other academic or institutional activities.
+LOC146,308,Room 308,Classroom,3,Q2,"Academic room used for teaching, learning, meetings, and student activities."
+LOC147,309,Room 309,Classroom,3,Q2,"Academic room used for lectures, learning, and other college-related activities."
+LOC148,310,M.Com,Academic Department/Classroom,3,Q2,Room associated with the Master of Commerce (M.Com) programme for postgraduate teaching and academic activities.
+LOC149,311,Room 311,Classroom,3,Q1,"Academic room used for teaching, learning, meetings, and other institutional activities."
+LOC150,312,Room 312,Classroom,3,Q1,"Academic room used for classes, lectures, and other academic activities."
+LOC151,313,Room 313,Classroom,3,Q1,"Academic room used for teaching, learning, and college-related activities."
+LOC152,314,Room 314,Classroom,3,Q1,"Academic room used for classes, meetings, and other institutional purposes."
+LOC153,315,Room 315,Classroom,3,Q1,"Academic room used for teaching, learning, and other educational activities."
+LOC154,316,Room 316,CL,3,Q1,"Academic room used for lectures, classes, and other college activities."
+LOC155,317,EC,Academic/Office,3,Q1,"Facility associated with EC, used for academic or administrative activities within the institution."
+LOC156,318,COE Office,Office,3,Q1,"Office of the Controller of Examinations (COE), responsible for examination-related administration, records, scheduling, and academic examination processes."

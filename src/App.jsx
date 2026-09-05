@@ -1,15 +1,9 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
+import Papa from "papaparse";
 import campusMap from "./assets/campus-map.jpg";
 import collegeLogo from "./assets/st_anns_guide_logo.svg";
 import firstFloorPlan from "./assets/first-floor.svg";
-const locations = [
-  { name: "Room 101", type: "Classroom", floor: "1st Floor" },
-  { name: "Room 102", type: "Classroom", floor: "1st Floor" },
-  { name: "Room 103", type: "Classroom", floor: "1st Floor" },
-  { name: "Seminar Hall", type: "Classroom", floor: "1st Floor" },
-  { name: "Computer Lab", type: "Lab", floor: "1st Floor" },
-  { name: "Library", type: "Library", floor: "2nd Floor" },
-];
+
 function App() {
   const [currentPage, setCurrentPage] = useState("home");
   const [selectedFloor, setSelectedFloor] = useState("first");
