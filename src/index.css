@@ -2,25 +2,21 @@
 * {
   box-sizing: border-box;
 }
-
 body {
   margin: 0;
   font-family: "DM Sans", sans-serif;
-  background-color: #f4f8ff;
+  background-color: #f6f3f8;
   color: #1f2937;
 }
-
 button {
   font-family: inherit;
 }
-
 .home-page,
 .campus-map-page,
 .simple-page {
   min-height: 100vh;
   padding: 24px;
 }
-
 .college-name {
   margin: 0;
   color: #1d4ed8;
@@ -28,20 +24,17 @@ button {
   font-weight: bold;
   text-align: center;
 }
-
 .hero-section {
   max-width: 520px;
   margin: 48px auto 0;
   text-align: center;
 }
-
 h1 {
   margin: 16px 0;
   font-size: 38px;
   line-height: 1.15;
   color: #111827;
 }
-
 .hero-section p,
 .page-description,
 .temporary-page-content p {
@@ -50,7 +43,6 @@ h1 {
   line-height: 1.6;
   color: #4b5563;
 }
-
 .hero-section button,
 .back-to-map-button {
   width: 100%;
@@ -64,18 +56,15 @@ h1 {
   font-weight: bold;
   cursor: pointer;
 }
-
 .hero-section button:hover,
 .back-to-map-button:hover {
   background-color: #1d4ed8;
 }
-
 .campus-map-content {
   max-width: 900px;
   margin: 32px auto;
   text-align: center;
 }
-
 .back-link {
   padding: 8px 0;
   border: none;
@@ -85,13 +74,11 @@ h1 {
   cursor: pointer;
   border-radius: 24px;
 }
-
 .map-container {
   position: relative;
   width: 100%;
   margin-top: 24px;
 }
-
 .campus-map-image {
   display: block;
   width: 100%;
@@ -99,13 +86,11 @@ h1 {
   border: 2px solid #1f2937;
   border-radius: 6px;
 }
-
 /*
   This button sits over only the Undergraduate Block
   in the supplied campus-map.jpg image.
 */ /*
   UG Block testing overlay.
-
   The coloured overlay is temporary so you can check alignment.
   Keep the position and clip-path when removing the visual styling.
 */
@@ -119,7 +104,6 @@ h1 {
   border: none;
   background-color: transparent;
   cursor: pointer;
-
   /*
     Follows the new purple UG Block shape.
     It excludes the Garden and the three gate areas.
@@ -156,26 +140,22 @@ h1 {
     53.7% 0.8%
   );
 }
-
 .ug-map-hotspot:hover {
   background-color: rgba(37, 99, 235, 0.32);
 }
 .simple-page {
   text-align: center;
 }
-
 .temporary-page-content {
   max-width: 500px;
   margin: 90px auto 0;
 }
-
 .floor-buttons {
   display: grid;
   justify-items: center;
   gap: 18px;
   margin: 28px 0;
 }
-
 .floor-button {
   display: block;
   width: 280px;
@@ -194,38 +174,31 @@ h1 {
     color 280ms ease,
     border-color 280ms ease;
 }
-
 .floor-button:hover,
 .floor-button.selected {
   border-color: #2563eb;
   background-color: #2563eb;
   color: white;
 }
-
 .back-to-map-button {
   background-color: #4b5563;
 }
-
 .back-to-map-button:hover {
   background-color: #374151;
 }
-
 @media (max-width: 480px) {
   .home-page,
   .campus-map-page,
   .simple-page {
     padding: 16px;
   }
-
   h1 {
     font-size: 32px;
   }
-
   .page-description {
     font-size: 16px;
   }
 }
-
 .college-logo {
   display: block;
   width: 300px;
@@ -233,7 +206,6 @@ h1 {
   height: auto;
   margin: 0 auto 22px;
 }
-
 .navbar {
   position: relative;
   display: flex;
@@ -260,7 +232,6 @@ h1 {
   text-overflow: ellipsis;
   white-space: nowrap;
 }
-
 .navbar-back {
   position: absolute;
   left: 12px;
@@ -277,37 +248,31 @@ h1 {
   place-items: center;
   transition: color 200ms ease;
 }
-
 .navbar-back:hover {
   color: #1d3209;
 }
 .dashboard-page {
-  background-color: #f8f6fc;
+  background-color: #f6f3f8;
 }
-
 .dashboard-content {
   max-width: 500px;
   margin: 0 auto;
 }
-
 .dashboard-greeting {
   margin: 8px 0 22px;
 }
-
 .dashboard-greeting p {
   margin: 0 0 6px;
   color: #2b490e;
   font-size: 17px;
   font-weight: bold;
 }
-
 .dashboard-greeting h1 {
   margin: 0;
   color: #2b490e;
   font-size: 30px;
   line-height: 1.2;
 }
-
 .dashboard-search {
   display: flex;
   align-items: center;
@@ -319,14 +284,12 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 4px 12px rgba(84, 43, 126, 0.08);
 }
-
 .dashboard-search svg {
   width: 20px;
   height: 20px;
   flex-shrink: 0;
   color: #7b5ca5;
 }
-
 .dashboard-search input {
   width: 100%;
   border: none;
@@ -335,11 +298,9 @@ h1 {
   color: #2b490e;
   font-size: 15px;
 }
-
 .dashboard-search input::placeholder {
   color: rgba(43, 73, 14, 0.65);
 }
-
 .dashboard-map-card {
   margin-bottom: 18px;
   padding: 16px;
@@ -347,23 +308,19 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 6px 18px rgba(84, 43, 126, 0.12);
 }
-
 .dashboard-map-card h2,
 .dashboard-floor-section h2 {
   margin: 0 0 14px;
   color: #2b490e;
   font-size: 21px;
 }
-
 .dashboard-map-container {
   margin-top: 0;
 }
-
 .dashboard-map-card .campus-map-image {
   border: none;
   border-radius: 14px;
 }
-
 .building-info-card {
   display: flex;
   align-items: center;
@@ -374,7 +331,6 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 5px 15px rgba(84, 43, 126, 0.1);
 }
-
 .building-icon {
   display: grid;
   width: 46px;
@@ -385,12 +341,10 @@ h1 {
   color: #542b7e;
   place-items: center;
 }
-
 .building-icon svg {
   width: 25px;
   height: 25px;
 }
-
 .building-info-card p {
   margin: 0;
   flex: 1;
@@ -399,23 +353,19 @@ h1 {
   font-weight: bold;
   line-height: 1.35;
 }
-
 .building-arrow {
   color: #542b7e;
   font-size: 28px;
   font-weight: bold;
 }
-
 .dashboard-floor-section {
   padding-bottom: 20px;
 }
-
 .dashboard-floor-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 }
-
 .dashboard-floor-button {
   min-width: 0;
   padding: 12px 8px;
@@ -431,24 +381,20 @@ h1 {
     color 280ms ease,
     border-color 280ms ease;
 }
-
 .dashboard-floor-button:hover {
   border-color: #7b5ca5;
   background-color: #7b5ca5;
   color: #f8f6fc;
 }
-
 .dashboard-floor-button.selected {
   border-color: #542b7e;
   background-color: #542b7e;
   color: #f8f6fc;
 }
-
 @media (max-width: 380px) {
   .dashboard-floor-buttons {
     gap: 7px;
   }
-
   .dashboard-floor-button {
     padding: 11px 4px;
     font-size: 14px;
@@ -459,30 +405,25 @@ h1 {
   padding: 24px;
   background-color: #f8f6fc;
 }
-
 .dashboard-content {
   max-width: 500px;
   margin: 0 auto;
 }
-
 .dashboard-greeting {
   margin: 8px 0 22px;
 }
-
 .dashboard-greeting p {
   margin: 0 0 6px;
   color: #2b490e;
   font-size: 17px;
   font-weight: bold;
 }
-
 .dashboard-greeting h1 {
   margin: 0;
   color: #2b490e;
   font-size: 30px;
   line-height: 1.2;
 }
-
 .dashboard-search {
   display: flex;
   align-items: center;
@@ -494,14 +435,12 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 4px 12px rgba(84, 43, 126, 0.08);
 }
-
 .dashboard-search svg {
   width: 20px;
   height: 20px;
   flex-shrink: 0;
   color: #7b5ca5;
 }
-
 .dashboard-search input {
   width: 100%;
   border: none;
@@ -510,11 +449,9 @@ h1 {
   color: #2b490e;
   font-size: 15px;
 }
-
 .dashboard-search input::placeholder {
   color: rgba(43, 73, 14, 0.65);
 }
-
 .dashboard-map-card {
   margin-bottom: 18px;
   padding: 16px;
@@ -522,21 +459,18 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 6px 18px rgba(84, 43, 126, 0.12);
 }
-
 .dashboard-map-card h2,
 .dashboard-floor-section h2 {
   margin: 0 0 14px;
   color: #2b490e;
   font-size: 21px;
 }
-
 .dashboard-map-preview {
   display: block;
   width: 100%;
   height: auto;
   border-radius: 14px;
 }
-
 .building-info-card {
   display: flex;
   align-items: center;
@@ -547,7 +481,6 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 5px 15px rgba(84, 43, 126, 0.1);
 }
-
 .building-icon {
   display: grid;
   width: 46px;
@@ -558,12 +491,10 @@ h1 {
   color: #542b7e;
   place-items: center;
 }
-
 .building-icon svg {
   width: 25px;
   height: 25px;
 }
-
 .building-info-card p {
   margin: 0;
   flex: 1;
@@ -572,23 +503,19 @@ h1 {
   font-weight: bold;
   line-height: 1.35;
 }
-
 .building-arrow {
   color: #542b7e;
   font-size: 28px;
   font-weight: bold;
 }
-
 .dashboard-floor-section {
   padding-bottom: 20px;
 }
-
 .dashboard-floor-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 }
-
 .dashboard-floor-button {
   min-width: 0;
   padding: 12px 8px;
@@ -604,34 +531,28 @@ h1 {
     color 280ms ease,
     border-color 280ms ease;
 }
-
 .dashboard-floor-button:hover {
   border-color: #7b5ca5;
   background-color: #7b5ca5;
   color: #f8f6fc;
 }
-
 .dashboard-floor-button.selected {
   border-color: #542b7e;
   background-color: #542b7e;
   color: #f8f6fc;
 }
-
 @media (max-width: 480px) {
   .dashboard-page {
     padding: 16px;
   }
-
   .dashboard-greeting h1 {
     font-size: 27px;
   }
 }
-
 @media (max-width: 380px) {
   .dashboard-floor-buttons {
     gap: 7px;
   }
-
   .dashboard-floor-button {
     padding: 11px 4px;
     font-size: 14px;
@@ -642,13 +563,11 @@ h1 {
   padding: 24px;
   background-color: #f8f6fc;
 }
-
 .ug-dashboard-content {
   max-width: 500px;
   margin: 0 auto;
   text-align: center;
 }
-
 .ug-dashboard-block-name {
   margin: 8px 0 6px;
   color: #542b7e;
@@ -656,13 +575,11 @@ h1 {
   font-weight: bold;
   letter-spacing: 1px;
 }
-
 .ug-dashboard-content h1 {
   margin: 0 0 20px;
   color: #2b490e;
   font-size: 30px;
 }
-
 .floor-plan-card {
   margin-bottom: 26px;
   padding: 12px;
@@ -670,34 +587,29 @@ h1 {
   background-color: #f8f6fc;
   box-shadow: 0 6px 18px rgba(84, 43, 126, 0.14);
 }
-
 .floor-plan-image {
   display: block;
   width: 100%;
   height: auto;
   border-radius: 12px;
 }
-
 .floor-plan-coming-soon {
   margin: 0;
   padding: 80px 16px;
   color: #2b490e;
   font-size: 17px;
 }
-
 .ug-floor-selection h2 {
   margin: 0 0 14px;
   color: #2b490e;
   font-size: 21px;
   text-align: left;
 }
-
 .ug-floor-buttons {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   gap: 10px;
 }
-
 .ug-floor-button {
   min-width: 0;
   padding: 12px 8px;
@@ -713,24 +625,20 @@ h1 {
     color 280ms ease,
     border-color 280ms ease;
 }
-
 .ug-floor-button:hover {
   border-color: #7b5ca5;
   background-color: #7b5ca5;
   color: #f8f6fc;
 }
-
 .ug-floor-button.selected {
   border-color: #542b7e;
   background-color: #542b7e;
   color: #f8f6fc;
 }
-
 @media (max-width: 480px) {
   .ug-dashboard-page {
     padding: 16px;
   }
-
   .ug-dashboard-content h1 {
     font-size: 27px;
   }
@@ -742,7 +650,6 @@ h1 {
   background-color: #f8f6fc;
   place-items: center;
 }
-
 .minimal-home-content {
   display: flex;
   width: 100%;
@@ -751,14 +658,12 @@ h1 {
   align-items: center;
   gap: 46px;
 }
-
 .minimal-home-logo {
   display: block;
   width: 320px;
   max-width: 82vw;
   height: auto;
 }
-
 .start-navigation-button {
   width: 240px;
   max-width: 90%;
@@ -773,28 +678,22 @@ h1 {
   cursor: pointer;
   transition: background-color 250ms ease;
 }
-
 .start-navigation-button:hover {
   background-color: #7b5ca5;
 }
-
 .navbar-title {
   color: #2b490e;
 }
-
 .navbar-back svg {
   color: #2b490e;
 }
-
 @media (max-width: 480px) {
   .minimal-home-page {
     padding: 16px;
   }
-
   .minimal-home-content {
     gap: 38px;
   }
-
   .minimal-home-logo {
     width: 260px;
   }
@@ -804,7 +703,6 @@ h1 {
   width: 100%;
   margin-bottom: 20px;
 }
-
 .campus-search input {
   width: 100%;
   padding: 14px 16px;
@@ -816,15 +714,12 @@ h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
 }
-
 .campus-search input:focus {
   border-color: #542b7e;
 }
-
 .campus-search input::placeholder {
   color: rgba(43, 73, 14, 0.65);
 }
-
 .location-suggestions {
   position: absolute;
   z-index: 10;
@@ -838,14 +733,12 @@ h1 {
   box-shadow: 0 6px 16px rgba(84, 43, 126, 0.12);
   text-align: left;
 }
-
 .location-suggestion {
   padding: 12px 16px;
   border-bottom: 1px solid rgba(123, 92, 165, 0.18);
   color: #2b490e;
   font-size: 15px;
 }
-
 .location-suggestion:last-child {
   border-bottom: none;
 }
@@ -854,7 +747,6 @@ h1 {
   width: 100%;
   margin: 8px 0 24px;
 }
-
 .dashboard-location-search input {
   width: 100%;
   padding: 14px 16px;
@@ -866,15 +758,12 @@ h1 {
   font-family: "DM Sans", sans-serif;
   font-size: 16px;
 }
-
 .dashboard-location-search input:focus {
   border-color: #542b7e;
 }
-
 .dashboard-location-search input::placeholder {
   color: rgba(43, 73, 14, 0.65);
 }
-
 .dashboard-location-suggestions {
   position: absolute;
   z-index: 10;
@@ -888,14 +777,92 @@ h1 {
   box-shadow: 0 6px 16px rgba(84, 43, 126, 0.12);
   text-align: left;
 }
-
 .dashboard-location-suggestion {
   padding: 12px 16px;
   border-bottom: 1px solid rgba(123, 92, 165, 0.18);
   color: #2b490e;
   font-size: 15px;
 }
-
 .dashboard-location-suggestion:last-child {
   border-bottom: none;
+}
+.floor-plan-card {
+  position: relative;
+  overflow: hidden;
+}
+.floor-plan-zoom-wrapper {
+  width: 100%;
+  height: 70vh;
+}
+.floor-plan-zoom-content {
+  width: 100%;
+  height: 100%;
+}
+.floor-plan-image {
+  display: block;
+  max-width: none;
+  width: 100%;
+  height: auto;
+}
+.floor-plan-controls {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 10;
+  display: flex;
+  gap: 8px;
+}
+.floor-plan-controls button {
+  border: 1px solid #7b5ca5;
+  border-radius: 10px;
+  padding: 8px 12px;
+  background: #f8f6fc;
+  color: #542b7e;
+  cursor: pointer;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 600;
+}
+.floor-plan-controls button:hover {
+  background: #7b5ca5;
+  color: #f8f6fc;
+}
+.floor-plan-card {
+  position: relative;
+  overflow: hidden;
+}
+.floor-plan-zoom-wrapper {
+  width: 100%;
+  height: 70vh;
+}
+.floor-plan-zoom-content {
+  width: 100%;
+  height: 100%;
+}
+.floor-plan-image {
+  display: block;
+  max-width: none;
+  width: 100%;
+  height: auto;
+}
+.floor-plan-controls {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  z-index: 10;
+  display: flex;
+  gap: 8px;
+}
+.floor-plan-controls button {
+  border: 1px solid #7b5ca5;
+  border-radius: 10px;
+  padding: 8px 12px;
+  background: #f8f6fc;
+  color: #542b7e;
+  cursor: pointer;
+  font-family: "DM Sans", sans-serif;
+  font-weight: 600;
+}
+.floor-plan-controls button:hover {
+  background: #7b5ca5;
+  color: #f8f6fc;
 }
