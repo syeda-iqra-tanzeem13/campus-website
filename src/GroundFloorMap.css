@@ -1,0 +1,133 @@
+.ground-floor-page {
+  width: 100%;
+  min-height: calc(100vh - 58px);
+  padding: 20px 0;
+  background-color: #f8f6fc;
+}
+.ground-floor-layout {
+  width: 94vw;
+  max-width: 1500px;
+  min-height: 85vh;
+
+  margin: 0 auto;
+
+  display: grid;
+  grid-template-columns: 280px minmax(0, 1fr);
+
+  overflow: hidden;
+}
+
+.ground-floor-sidebar {
+  overflow-y: auto;
+  padding: 20px;
+  background-color: #fffdf5;
+  box-shadow: 2px 0 12px rgba(84, 43, 126, 0.13);
+  z-index: 2;
+}
+
+.ground-floor-sidebar h1 {
+  margin-top: 0;
+  color: #2b490e;
+  font-size: 25px;
+}
+
+.ground-floor-sidebar label {
+  display: block;
+  margin-bottom: 6px;
+  color: #2b490e;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.ground-floor-sidebar input,
+.ground-floor-sidebar select {
+  width: 100%;
+  margin-bottom: 16px;
+  padding: 10px;
+  border: 1px solid #b8a1cf;
+  border-radius: 8px;
+  font-family: "DM Sans", sans-serif;
+}
+
+.ground-floor-sidebar hr {
+  border: none;
+  border-top: 1px solid #e2c750;
+  margin: 20px 0;
+}
+
+.ground-floor-results button {
+  width: 100%;
+  padding: 8px;
+  border: none;
+  background: transparent;
+  color: #542b7e;
+  text-align: left;
+  cursor: pointer;
+}
+
+.ground-floor-results button:hover {
+  background-color: #f4eff8;
+}
+
+.show-route-button {
+  width: 100%;
+  padding: 11px;
+  border: none;
+  border-radius: 8px;
+  background-color: #2b490e;
+  color: white;
+  font-family: "DM Sans", sans-serif;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.route-message {
+  color: #542b7e;
+  font-size: 14px;
+  line-height: 1.5;
+}
+
+.ground-floor-map-section {
+  width: 100%;
+  min-width: 0;
+  min-height: 85vh;
+}
+.ground-floor-map {
+  width: 100%;
+  height: 85vh;
+  min-height: 650px;
+  background-color: #f4eff8;
+}
+
+/* Room labels from Leaflet */
+
+.room-label {
+  color: #2b490e;
+  font-size: 10px;
+  font-weight: bold;
+  text-align: center;
+  text-shadow: 0 1px white;
+  line-height: 1.1;
+  pointer-events: none;
+}
+
+.room-label span {
+  display: block;
+  max-width: 90px;
+  transform: translate(-50%, -50%);
+}
+
+@media (max-width: 700px) {
+  .ground-floor-layout {
+    grid-template-columns: 1fr;
+    grid-template-rows: auto 70vh;
+  }
+
+  .ground-floor-sidebar {
+    max-height: 280px;
+  }
+
+  .ground-floor-map {
+    height: 70vh;
+  }
+}
